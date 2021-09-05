@@ -1,0 +1,1 @@
+from mat2vec_new.processing.process import MaterialsTextProcessor_new
