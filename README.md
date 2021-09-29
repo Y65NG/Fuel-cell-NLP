@@ -10,8 +10,7 @@ This repo hosts relevant codes for the article "Natural Language Processing Appl
 
 ### Datasets
 
-We use MongoDB as our dataset to store abstracts as well as word tokens after preprocessing. Use the link below to access the dataset.
-
+We use MongoDB as our dataset to store abstracts as well as word tokens after preprocessing. 
 ### Author
 
 - Feifan Yang
